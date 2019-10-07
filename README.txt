@@ -10,6 +10,3 @@ The purpose of this project is to analyse YouTubes public data sets. This work w
 	1. This will allow a user to generate the most effective tags to increase their videos reach.
 3. Most popular categories in each region based on interactions with the video? i.e. likes and comments.
 	1. This will allow individuals to choose the most effective category for video growth as interactions directly correlate to a videos popularity.
-
-
-
